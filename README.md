@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Consulta Franquicias - Consultores expertos en franquicias
 
-You can use the [editor on GitHub](https://github.com/ConsultaFranquiciasDev/inicio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Index de desarrollo de Consulta franquicias, expertos en [consultoría de franquicias](http://www.consultafranquicias.es), asesoría para franquiciados y desarrollo de franquicias desde negocios.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Consulta Franquicias es una compañía creada por un equipo de expertos en franquicias con más de 15 años de experiencia, y más de 300 casos de éxito.
 
-### Markdown
+Como expertos en franquicias, impulsamos el crecimiento y la expansión de todas las marcas con nuestros servicios.
+Posicionamos a nuestros clientes como líderes de mercado, apoyando a emprendedores y empresarios en la creación y consolidación de sus modelos de negocio.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ofrecemos un modelo de consultoría de franquicia diferente al convencional, proporcionando un servicio personalizado de alta calidad que contribuye al crecimiento y éxito de su  negocio, satisfaciendo sus necesidades empresariales y superando sus expectativas con profesionalismo y efectividad.
 
-```markdown
-Syntax highlighted code block
+### Servicios
 
-# Header 1
-## Header 2
-### Header 3
+- [Marketing y comunicación para franquicias](http://www.consultafranquicias.es/servicios/marketing-y-comunicacion-para-franquicias/)
+- [Servicios legales para franquicias](http://www.consultafranquicias.es/servicios/servicios-legales-para-franquicias/)
+- [Financiación e inversores para franquicias](http://www.consultafranquicias.es/servicios/financiacion-e-inversores-para-franquicias/)
+- [Expansión de franquicias](http://www.consultafranquicias.es/servicios/expansion-de-franquicias/)
+- [Expansión internacional de franquicias](http://www.consultafranquicias.es/servicios/expansion-internacional/)
+- [Formación para franquicias](http://www.consultafranquicias.es/servicios/formacion-para-franquicias/)
+- [Cómo franquiciar un negocio](http://www.consultafranquicias.es/como-franquiciar-un-negocio/crear-una-franquicia/)
+- [Test de franquiciabilidad de negocios](http://www.consultafranquicias.es/como-franquiciar-un-negocio/test-de-franquiciabilidad/)
+- [Asesora de franquicias](http://www.consultafranquicias.es/asesoria-de-franquicias/)
+- [Estudio de zona y búsuqeda de local par franquicias](http://www.consultafranquicias.es/asesoria-de-franquicias/estudio-de-zona-y-busqueda-de-local-para-franquicias/)
+- [Servicio local llave en mano para franquicias](http://www.consultafranquicias.es/asesoria-de-franquicias/servicio-local-llave-en-mano-para-franquicias/)
+- [Franquicias recomendadas](http://www.consultafranquicias.es/asesoria-de-franquicias/franquicias-recomendadas/)
 
-- Bulleted
-- List
+### Contacto
 
-1. Numbered
-2. List
+#### Oficina Madrid
+C/ Segundo Mata, 1
+Planta 2- Oficina 14
+Pozuelo de Alarcón.
+28224 Madrid 
+Teléfono: +34 913 518 219 
+Email: info@consultafranquicias.es
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ConsultaFranquiciasDev/inicio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Oficina Murcia
+Avda. Teniente Montesinos 8
+Edificio Intl, Torre Z, 4ª
+Espinardo
+30100 Murcia 
+Teléfono: +34 913 518 219 
+Email: info@consultafranquicias.es
